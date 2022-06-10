@@ -246,4 +246,34 @@ export const infoRoutes = [
       },
     ]
   },
+  {
+    id: 7,
+    color: "yellow",
+    name: "Azuaje",
+    description: "El Barranco de Azuaje se encuentra en el norte de Gran Canaria y hace de frontera geográfica de los municipios de Firgas (70%) y Moya (30%). La Reserva Natural Especial de Azuaje cuenta a lo largo de su barranco con un buen caudal de agua durante todo el año. Es por ello que cuenta con una riqueza biológica increíble y que sea uno de los barrancos más verdes y, por tanto, bonitos de la isla. Sin duda, se trata de una de las rutas de senderismo en Gran Canaria que no puede faltar en tu lista.",
+    music: "",
+    stops: [
+      {
+        idStop: 1,
+        name: "Barranco",
+        description: "",
+        video: "",
+        location: [28.1052413,-15.5723527]
+      }, 
+      {
+        idStop: 2,
+        name: "Ciudad",
+        description: "",
+        video: "",
+        location: [28.1052413,-15.5723527]
+      }, 
+      {
+        idStop: 3,
+        name: "Visita",
+        description: "",
+        video: "",
+        location: [28.1052413,-15.5723527]
+      }, 
+    ]
+  },
 ];

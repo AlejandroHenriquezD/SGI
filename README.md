@@ -6,6 +6,44 @@ The resources were created by turism students from CIFP San Cristóbal.
 
 From this starting point ICT Students in IES El Rincón will create the VR App.
 
+# Description of Home page
+
+The main project was copied from https://github.com/tcrurav/SabiosGuiasReactTestProject
+
+The home page was made for me, it has a simple but cool design
+
+It was done for me using diferent components
+
+## Components of my Own
+
+Footer2.js
+
+Header2.js
+
+Image.js
+
+Images.js
+
+## Components of my teacher Tiburcio (https://github.com/tcrurav)
+
+Draw_canvas.js
+
+Footer.js
+
+Header.js
+
+infoRoutes.js
+
+MenuItem.js
+
+Navbar.js
+
+ScrollToTop.js
+
+StopMap.js
+
+Video360Click.js
+
 ## Prerequisites
 
 You need a working environment with:

@@ -21,9 +21,9 @@ function Video360() {
           <video id="vid" loop={true} src={`/video/Route-${route}/Route-${route}-Stop-${stop}.mp4`} autoPlay={true} > </video>
         </a-assets>
 
-        {/* <a-camera>
+        { <a-camera>
             <a-cursor raycaster="objects: .clickable" rayorigin="mouse"></a-cursor>
-        </a-camera> */}
+        </a-camera> }
 
         <a-cursor raycaster="objects: .clickable" rayOrigin="mouse"></a-cursor>
 
